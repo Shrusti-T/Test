@@ -1,5 +1,1 @@
-{{#user}}
-Name: Shrusti Tegginamani
-Skills: HTML, CSS, 
-Email: shrishtee.t@gmail.com
-{{/user}}
+
